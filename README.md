@@ -1,2 +1,2 @@
-# http://formatador
+# formatador
 meu trabalho
